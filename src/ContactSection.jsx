@@ -68,7 +68,7 @@ export default function ContactSection() {
               LinkedIn
             </a>
             <a
-              href="https://github.com/fahadqureshi"
+              href="https://github.com/Fadedod"
               target="_blank"
               rel="noopener noreferrer"
               className="text-sm text-[#BF5700] hover:underline"
