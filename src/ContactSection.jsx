@@ -34,7 +34,6 @@ export default function ContactSection() {
         <h2 className="text-2xl font-black text-[#BF5700] tracking-widest uppercase mb-8">GET IN TOUCH</h2>
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-12">
 
-          {/* Form */}
           <form onSubmit={handleSubmit} className="space-y-4">
             <div className="grid grid-cols-2 gap-4">
               <input
@@ -82,7 +81,6 @@ export default function ContactSection() {
             )}
           </form>
 
-          {/* Contact Info */}
           <div className="flex flex-col justify-center space-y-4">
             <div>
               <span className="text-sm text-gray-500">Email: </span>
